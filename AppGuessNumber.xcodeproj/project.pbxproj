@@ -39,7 +39,6 @@
 		D153B8202C3B32B6007B05DD = {
 			isa = PBXGroup;
 			children = (
-				D153B83A2C3B32E2007B05DD /* RootView.swift */,
 				D153B82B2C3B32B6007B05DD /* AppGuessNumber */,
 				D153B82A2C3B32B6007B05DD /* Products */,
 			);
@@ -56,6 +55,7 @@
 		D153B82B2C3B32B6007B05DD /* AppGuessNumber */ = {
 			isa = PBXGroup;
 			children = (
+				D153B83A2C3B32E2007B05DD /* RootView.swift */,
 				D153B83C2C3B333D007B05DD /* SplashScreenView.swift */,
 				D153B82C2C3B32B6007B05DD /* AppGuessNumberApp.swift */,
 				D153B82E2C3B32B6007B05DD /* MainView.swift */,
